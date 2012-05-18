@@ -1,0 +1,2 @@
+serviceClass: conceptcha.client.GreetingService
+path: CC1D0DD0040B4E421CD3908260EF43F5.gwt.rpc
